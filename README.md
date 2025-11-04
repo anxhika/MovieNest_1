@@ -53,7 +53,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/En-avii/movienest.git  
+   git clone https://github.com/anxhika/MovieNest_1.git  
 2. Navigate to the project directory:
    cd movienest  
 3. Install dependencies:
