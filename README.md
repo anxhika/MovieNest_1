@@ -63,7 +63,7 @@ Follow these steps to set up the project locally:
 5. Start the development server:
    npm run start
 6. Open your browser and go to:
-   http://localhost:3000
+   [http://localhost:3000](https://anxhika.vercel.app/)
 
 🚀 Usage
 Once the project is running, you can:
